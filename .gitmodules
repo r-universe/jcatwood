@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "VeccTMVN"]
+	path = VeccTMVN
+	url = https://github.com/jcatwood/vecctmvn
